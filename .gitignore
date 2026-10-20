@@ -1,0 +1,9 @@
+node_modules/
+out/
+.remotion/
+*.tsbuildinfo
+
+# Generated Blender intermediates; keep the packaged scene and final MP4.
+/public/blender-eye/frames/
+__pycache__/
+*.blend1

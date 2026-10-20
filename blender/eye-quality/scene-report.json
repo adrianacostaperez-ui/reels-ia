@@ -1,0 +1,21 @@
+{
+  "blender": "5.2.2 LTS",
+  "engine": "CYCLES",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "animationFrames": 150,
+  "packedTextures": [
+    "iris-color.png",
+    "iris-height.png",
+    "sclera-color.png"
+  ],
+  "meshPolygons": 203776,
+  "areaLights": 5,
+  "cameraLensMm": 100.0,
+  "apertureFstop": 7.099999904632568,
+  "nativeSourcePosesForThisPreview": 31,
+  "outputInbetweens": "motion compensated; not independent Cycles renders"
+}

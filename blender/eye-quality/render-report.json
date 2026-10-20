@@ -1,0 +1,176 @@
+{
+  "engine": "Blender 5.2.2 LTS / Cycles CPU",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "maxSamples": 24,
+  "adaptiveMinimum": 8,
+  "noiseThreshold": 0.035,
+  "denoiser": "OpenImageDenoise integrated",
+  "sourceFrames": [
+    1,
+    6,
+    11,
+    16,
+    21,
+    26,
+    31,
+    36,
+    41,
+    46,
+    51,
+    56,
+    61,
+    66,
+    71,
+    76,
+    81,
+    86,
+    91,
+    96,
+    101,
+    106,
+    111,
+    116,
+    121,
+    126,
+    131,
+    136,
+    141,
+    146,
+    150
+  ],
+  "sourceFrameCount": 31,
+  "targetFrames": 150,
+  "targetFps": 30,
+  "duration": 5,
+  "interpolation": "FFmpeg motion-compensated optical flow between 31 Cycles poses; not 150 independent path-traced frames",
+  "finished": [
+    {
+      "frame": 1,
+      "seconds": 77.49
+    },
+    {
+      "frame": 6,
+      "seconds": 75.96
+    },
+    {
+      "frame": 11,
+      "seconds": 75.67
+    },
+    {
+      "frame": 16,
+      "seconds": 77.2
+    },
+    {
+      "frame": 21,
+      "seconds": 74.05
+    },
+    {
+      "frame": 26,
+      "seconds": 75.83
+    },
+    {
+      "frame": 31,
+      "seconds": 75.33
+    },
+    {
+      "frame": 36,
+      "seconds": 74.48
+    },
+    {
+      "frame": 41,
+      "seconds": 74.32
+    },
+    {
+      "frame": 46,
+      "seconds": 77.08
+    },
+    {
+      "frame": 51,
+      "seconds": 77.34
+    },
+    {
+      "frame": 56,
+      "seconds": 78.53
+    },
+    {
+      "frame": 61,
+      "seconds": 77.33
+    },
+    {
+      "frame": 66,
+      "seconds": 76.7
+    },
+    {
+      "frame": 71,
+      "seconds": 75.54
+    },
+    {
+      "frame": 76,
+      "seconds": 75.18
+    },
+    {
+      "frame": 81,
+      "seconds": 76.65
+    },
+    {
+      "frame": 86,
+      "seconds": 77.0
+    },
+    {
+      "frame": 91,
+      "seconds": 79.83
+    },
+    {
+      "frame": 96,
+      "seconds": 76.81
+    },
+    {
+      "frame": 101,
+      "seconds": 77.49
+    },
+    {
+      "frame": 106,
+      "seconds": 75.66
+    },
+    {
+      "frame": 111,
+      "seconds": 76.28
+    },
+    {
+      "frame": 116,
+      "seconds": 75.85
+    },
+    {
+      "frame": 121,
+      "seconds": 76.68
+    },
+    {
+      "frame": 126,
+      "seconds": 76.71
+    },
+    {
+      "frame": 131,
+      "seconds": 75.93
+    },
+    {
+      "frame": 136,
+      "seconds": 75.75
+    },
+    {
+      "frame": 141,
+      "seconds": 76.56
+    },
+    {
+      "frame": 146,
+      "seconds": 76.01
+    },
+    {
+      "frame": 150,
+      "seconds": 75.63
+    }
+  ],
+  "elapsedSeconds": 2366.92
+}

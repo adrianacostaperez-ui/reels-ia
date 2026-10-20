@@ -1,0 +1,25 @@
+{
+  "file": "deliverables/blender-eye-quality-test.mp4",
+  "sha256": "88652a86750a82f72645c16f5a17e70010125ce250897109cc7ce6b2b6107034",
+  "duration": 5,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "outputFrames": 150,
+  "audioStreams": 0,
+  "sourceEngine": "Blender 5.2.2 LTS / Cycles CPU",
+  "pathTracedSourcePoses": 31,
+  "motionCompensatedInbetweens": true,
+  "native150FrameRender": false,
+  "remotionRole": "2D image assembly, restrained vignette, H.264 export; no 3D scene",
+  "fullDecodePassed": true,
+  "motionChecks": {
+    "pupilAreaStart": 6847.0,
+    "pupilAreaEnd": 11604.0,
+    "pupilAreaGrowth": 1.6947568278077991,
+    "maxPupilCenterStepPxAt540": 0.2734269562057821,
+    "maxPupilAxisRatio": 1.0115589167881207
+  }
+}

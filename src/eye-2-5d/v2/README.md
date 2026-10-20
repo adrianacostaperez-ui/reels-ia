@@ -3,6 +3,16 @@
 Salida: deliverables/eye-2-5d-test-v2.mp4.
 5 segundos, 1080 × 1920, 30 fps, 150 fotogramas, H.264, sin audio ni texto.
 
+## Aprobación y selección para el montaje final
+
+La V2 queda aprobada como recurso 2.5D del plano A. Se seleccionan únicamente
+los primeros 58 fotogramas a velocidad original: intervalo [0,58), 1,9333 s.
+El corte enlaza con el comienzo del experimento aprobado en el frame 58.
+El archivo completo de cinco segundos se conserva como master de prueba;
+su resto no se usa para prolongar el plano ni rellenar otros momentos.
+No se genera una V3. La selección está registrada en
+src/blindspot/ai-edit-policy.json.
+
 Parte de la misma imagen y de las mismas capas que la V1. El archivo original
 y el primer MP4 se mantienen intactos. Se añade únicamente una máscara de foco
 interior con los RGB originales: pupila e iris comparten exactamente la misma
@@ -37,7 +47,8 @@ Three.js, optical flow, inpainting, nuevas pestañas o geometría de ojo.
     python scripts/validate_eye_25d.py --v2
 
 Los fotogramas de revisión 0, 55, 105, 132 y 149 se guardan en
-out/eye-2-5d-v2/. El último puede servir como referencia de continuidad para
-el siguiente plano. La validación sigue la pupila en los 150 fotogramas,
+out/eye-2-5d-v2/. Para continuidad desde el A seleccionado se usa el frame 57;
+el frame 149 corresponde a la cola no seleccionada del test completo.
+La validación del master sigue la pupila en los 150 fotogramas,
 comprueba la llegada al centro previsto, la conservación del original y de V1,
 los RGB de todas las capas, formato, duración, ausencia de audio y decodificación.

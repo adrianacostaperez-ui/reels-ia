@@ -1,0 +1,46 @@
+{
+  "fps": 30,
+  "timeline": "src/blindspot/approved-timeline.json",
+  "finalAudioDurationSeconds": 63.245688,
+  "finalCompositionFrames": 1898,
+  "approvedAssets": {
+    "A": {
+      "status": "approved_2_5d_resource",
+      "source": "deliverables/eye-2-5d-test-v2.mp4",
+      "sourceSha256": "d74eac5636ea0fd63618ce075ad67477596bbde15c25def4bc72d58b647109df",
+      "sourceDurationFrames": 150,
+      "sourceInFrame": 0,
+      "sourceOutFrameExclusive": 58,
+      "timelineStartFrame": 0,
+      "timelineEndFrameExclusive": 58,
+      "selectedDurationFrames": 58,
+      "selectedDurationSeconds": 1.9333333333333333,
+      "playbackRate": 1,
+      "loop": false,
+      "freezeFrame": false,
+      "repeatToExtend": false,
+      "useRemainderToFillOtherScenes": false,
+      "createV3": false,
+      "continuityReferenceFrame": 57
+    }
+  },
+  "animatedStillPolicy": {
+    "preferredDurationFrames": [45, 75],
+    "maximumContinuousDurationFrames": 90,
+    "avoidConsecutiveCropsThatMerelyExtendOneStill": true,
+    "varyImagesAndFraming": true,
+    "usePurposeful2DOverlaysAndTransitions": true,
+    "doNotArtificiallyExtendSourceMotion": true
+  },
+  "experimentException": {
+    "timelineStartFrame": 58,
+    "timelineEndFrameExclusive": 485,
+    "pauseStartFrame": 324,
+    "pauseEndFrameExclusive": 444,
+    "preserveApprovedGeometrySizesSpacingColors": true,
+    "staticStimuliAndBackground": true,
+    "cutsDuringExperiment": false
+  },
+  "preserve": ["approved_script", "definitive_narration", "approved_timeline", "V6_caption_system"],
+  "remainingVisualsStatus": "storyboard_and_assets_pending_production"
+}

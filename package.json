@@ -4,16 +4,18 @@
   "private": true,
   "description": "Vídeos verticales con imágenes, clips y Remotion",
   "scripts": {
-    "dev": "remotion studio src/eye-2-5d/index.tsx --port=3100",
+    "dev": "remotion studio src/eye-2-5d/v2/index.tsx --port=3100",
     "typecheck": "tsc --noEmit",
-    "compositions": "REMOTION_BROWSER_EXECUTABLE=/usr/bin/chromium remotion compositions src/eye-2-5d/index.tsx",
-    "render": "node scripts/render_eye_25d.mjs",
-    "still": "node scripts/render_eye_25d.mjs --stills",
+    "compositions": "REMOTION_BROWSER_EXECUTABLE=/usr/bin/chromium remotion compositions src/eye-2-5d/v2/index.tsx",
+    "render": "node scripts/render_eye_25d.mjs --v2",
+    "still": "node scripts/render_eye_25d.mjs --v2 --stills",
     "eye:studio": "remotion studio src/blender-eye/index.tsx --port=3100 --no-open",
     "eye:render": "node scripts/render_blender_eye.mjs",
     "eye:check": "bash blender/eye-quality/run.sh validate",
     "eye25d:render": "node scripts/render_eye_25d.mjs",
-    "eye25d:check": "python scripts/validate_eye_25d.py"
+    "eye25d:check": "python scripts/validate_eye_25d.py",
+    "eye25d:v2:render": "node scripts/render_eye_25d.mjs --v2",
+    "eye25d:v2:check": "python scripts/validate_eye_25d.py --v2"
   },
   "engines": {
     "node": ">=22"

@@ -2,16 +2,18 @@
   "name": "reels-ia",
   "version": "0.1.0",
   "private": true,
-  "description": "Vídeos verticales con Blender, Remotion y React",
+  "description": "Vídeos verticales con imágenes, clips y Remotion",
   "scripts": {
-    "dev": "remotion studio src/blender-eye/index.tsx --port=3100",
+    "dev": "remotion studio src/eye-2-5d/index.tsx --port=3100",
     "typecheck": "tsc --noEmit",
-    "compositions": "remotion compositions src/blender-eye/index.tsx",
-    "render": "node scripts/render_blender_eye.mjs",
-    "still": "remotion still src/blender-eye/index.tsx BlenderEyeQualityTest out/blender-eye/preview.png --frame=75",
+    "compositions": "REMOTION_BROWSER_EXECUTABLE=/usr/bin/chromium remotion compositions src/eye-2-5d/index.tsx",
+    "render": "node scripts/render_eye_25d.mjs",
+    "still": "node scripts/render_eye_25d.mjs --stills",
     "eye:studio": "remotion studio src/blender-eye/index.tsx --port=3100 --no-open",
     "eye:render": "node scripts/render_blender_eye.mjs",
-    "eye:check": "bash blender/eye-quality/run.sh validate"
+    "eye:check": "bash blender/eye-quality/run.sh validate",
+    "eye25d:render": "node scripts/render_eye_25d.mjs",
+    "eye25d:check": "python scripts/validate_eye_25d.py"
   },
   "engines": {
     "node": ">=22"

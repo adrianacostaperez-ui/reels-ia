@@ -1,0 +1,18 @@
+{
+  "source": "source.png",
+  "sourceSha256": "1767b8c9ed6cf6d40f4350c87813266ffcf5123fc7bb4a4a4385a04471a8c690",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "layers": [
+    "source.png",
+    "lashes.png",
+    "cornea.png",
+    "iris.png"
+  ],
+  "processing": "original RGB pixels plus feathered alpha masks only",
+  "newEyeGenerated": false,
+  "inpainting": false,
+  "irisOrLashGeometryWarped": false
+}

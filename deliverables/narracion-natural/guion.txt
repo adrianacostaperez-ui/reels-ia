@@ -1,0 +1,2 @@
+Tu móvil no sabe exactamente cuánta batería queda.
+En realidad, hay un chip que la calcula todo el tiempo.

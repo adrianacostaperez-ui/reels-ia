@@ -1,0 +1,11 @@
+{
+  "text": "Tu móvil no sabe exactamente cuánta batería queda. En realidad, hay un chip que la calcula todo el tiempo.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.75,
+    "style": 0.1,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  }
+}

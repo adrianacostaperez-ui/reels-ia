@@ -1,0 +1,161 @@
+{
+  "fps": 30,
+  "durationInFrames": 240,
+  "text": "Tu móvil no sabe exactamente cuánta batería queda. En realidad, hay un chip que la calcula todo el tiempo.",
+  "voice": "PENDIENTE — no reutilizar Kokoro ef_dora",
+  "voiceStatus": "pending_external_voice",
+  "timingStatus": "estimated_not_measured",
+  "words": [
+    {
+      "text": "Tu",
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "text": "móvil",
+      "start": 0.38,
+      "end": 0.72
+    },
+    {
+      "text": "no",
+      "start": 0.76,
+      "end": 0.91
+    },
+    {
+      "text": "sabe",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "text": "exactamente",
+      "start": 1.3,
+      "end": 2.0
+    },
+    {
+      "text": "cuánta",
+      "start": 2.06,
+      "end": 2.4
+    },
+    {
+      "text": "batería",
+      "start": 2.43,
+      "end": 2.94
+    },
+    {
+      "text": "queda.",
+      "start": 2.98,
+      "end": 3.55
+    },
+    {
+      "text": "En",
+      "start": 3.92,
+      "end": 4.04
+    },
+    {
+      "text": "realidad,",
+      "start": 4.08,
+      "end": 4.52
+    },
+    {
+      "text": "hay",
+      "start": 4.64,
+      "end": 4.84
+    },
+    {
+      "text": "un",
+      "start": 4.86,
+      "end": 4.98
+    },
+    {
+      "text": "chip",
+      "start": 5.03,
+      "end": 5.43
+    },
+    {
+      "text": "que",
+      "start": 5.51,
+      "end": 5.67
+    },
+    {
+      "text": "la",
+      "start": 5.7,
+      "end": 5.8
+    },
+    {
+      "text": "calcula",
+      "start": 5.85,
+      "end": 6.24
+    },
+    {
+      "text": "todo",
+      "start": 6.29,
+      "end": 6.65
+    },
+    {
+      "text": "el",
+      "start": 6.69,
+      "end": 6.82
+    },
+    {
+      "text": "tiempo.",
+      "start": 6.87,
+      "end": 7.5
+    }
+  ],
+  "captions": [
+    {
+      "text": "Tu móvil no sabe",
+      "highlight": "móvil",
+      "start": 0.2,
+      "end": 1.31,
+      "from": 6,
+      "to": 39
+    },
+    {
+      "text": "exactamente",
+      "highlight": "exactamente",
+      "start": 1.3,
+      "end": 2.07,
+      "from": 39,
+      "to": 62
+    },
+    {
+      "text": "cuánta batería queda",
+      "highlight": "batería",
+      "start": 2.06,
+      "end": 3.6199999999999997,
+      "from": 62,
+      "to": 109
+    },
+    {
+      "text": "En realidad",
+      "highlight": "realidad",
+      "start": 3.92,
+      "end": 4.59,
+      "from": 118,
+      "to": 138
+    },
+    {
+      "text": "hay un chip",
+      "highlight": "chip",
+      "start": 4.64,
+      "end": 5.5,
+      "from": 139,
+      "to": 165
+    },
+    {
+      "text": "que la calcula todo el tiempo",
+      "highlight": "calcula",
+      "start": 5.51,
+      "end": 7.57,
+      "from": 165,
+      "to": 227
+    }
+  ],
+  "chipStart": 139,
+  "chipWord": 151,
+  "chipEnd": 163,
+  "pulseStart": 165,
+  "cardStart": 12,
+  "voiceEnd": 7.5
+}

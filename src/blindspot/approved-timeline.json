@@ -1,0 +1,191 @@
+{
+  "sha256": "05e542237413c0c80517bca585b8b844563d38141935eb19dd34d4d620f23053",
+  "sourceDuration": 59.245688,
+  "pause": {
+    "sourceInsertionPoint": 10.8,
+    "videoStart": 10.8,
+    "videoEnd": 14.8,
+    "additionalSeconds": 4,
+    "text": "Puedes pausar para probar",
+    "static": true
+  },
+  "finalAudioDuration": 63.245688,
+  "lastAudibleSpeechEndApprox": 62.84,
+  "phrases": [
+    {
+      "sourceStart": 0,
+      "sourceNextCueOrEnd": 1.94,
+      "videoStart": 0,
+      "videoNextCueOrEnd": 1.94,
+      "text": "Tu ojo no ve toda esta pantalla."
+    },
+    {
+      "sourceStart": 1.94,
+      "sourceNextCueOrEnd": 2.94,
+      "videoStart": 1.94,
+      "videoNextCueOrEnd": 2.94,
+      "text": "Cierra el ojo izquierdo."
+    },
+    {
+      "sourceStart": 2.94,
+      "sourceNextCueOrEnd": 4.9,
+      "videoStart": 2.94,
+      "videoNextCueOrEnd": 4.9,
+      "text": "Con el derecho, mira fijamente esta cruz."
+    },
+    {
+      "sourceStart": 4.9,
+      "sourceNextCueOrEnd": 7.42,
+      "videoStart": 4.9,
+      "videoNextCueOrEnd": 7.42,
+      "text": "Ahora acerca y aleja el móvil despacio."
+    },
+    {
+      "sourceStart": 7.42,
+      "sourceNextCueOrEnd": 8.92,
+      "videoStart": 7.42,
+      "videoNextCueOrEnd": 8.92,
+      "text": "Sin dejar de mirar la cruz…"
+    },
+    {
+      "sourceStart": 8.92,
+      "sourceNextCueOrEnd": 10.8,
+      "videoStart": 8.92,
+      "videoNextCueOrEnd": 10.8,
+      "text": "En algún momento, el punto desaparecerá."
+    },
+    {
+      "sourceStart": 10.92,
+      "sourceNextCueOrEnd": 12.16,
+      "videoStart": 14.92,
+      "videoNextCueOrEnd": 16.16,
+      "text": "El punto sigue ahí."
+    },
+    {
+      "sourceStart": 12.16,
+      "sourceNextCueOrEnd": 17.81,
+      "videoStart": 16.16,
+      "videoNextCueOrEnd": 21.81,
+      "text": "Pero, a esa distancia, su imagen cae justo en una zona de tu ojo que no detecta luz."
+    },
+    {
+      "sourceStart": 17.81,
+      "sourceNextCueOrEnd": 18.76,
+      "videoStart": 21.81,
+      "videoNextCueOrEnd": 22.76,
+      "text": "Mira adentro."
+    },
+    {
+      "sourceStart": 18.76,
+      "sourceNextCueOrEnd": 21.9,
+      "videoStart": 22.76,
+      "videoNextCueOrEnd": 25.9,
+      "text": "Al fondo está la retina, llena de células que detectan la luz."
+    },
+    {
+      "sourceStart": 21.9,
+      "sourceNextCueOrEnd": 24.43,
+      "videoStart": 25.9,
+      "videoNextCueOrEnd": 28.43,
+      "text": "Pero hay un lugar donde no hay ninguna."
+    },
+    {
+      "sourceStart": 24.43,
+      "sourceNextCueOrEnd": 26.41,
+      "videoStart": 28.43,
+      "videoNextCueOrEnd": 30.41,
+      "text": "Justo aquí sale el nervio óptico."
+    },
+    {
+      "sourceStart": 26.41,
+      "sourceNextCueOrEnd": 28.61,
+      "videoStart": 30.41,
+      "videoNextCueOrEnd": 32.61,
+      "text": "El que lleva la información hacia el cerebro."
+    },
+    {
+      "sourceStart": 28.61,
+      "sourceNextCueOrEnd": 31.22,
+      "videoStart": 32.61,
+      "videoNextCueOrEnd": 35.22,
+      "text": "Esa pequeña zona es tu punto ciego."
+    },
+    {
+      "sourceStart": 31.22,
+      "sourceNextCueOrEnd": 34.38,
+      "videoStart": 35.22,
+      "videoNextCueOrEnd": 38.38,
+      "text": "Cuando la imagen del punto cae ahí, no se genera señal."
+    },
+    {
+      "sourceStart": 34.38,
+      "sourceNextCueOrEnd": 37.41,
+      "videoStart": 38.38,
+      "videoNextCueOrEnd": 41.41,
+      "text": "Por eso puedes dejar de verlo aunque siga delante de ti."
+    },
+    {
+      "sourceStart": 37.41,
+      "sourceNextCueOrEnd": 39.14,
+      "videoStart": 41.41,
+      "videoNextCueOrEnd": 43.14,
+      "text": "¿Y por qué no ves un hueco negro?"
+    },
+    {
+      "sourceStart": 39.14,
+      "sourceNextCueOrEnd": 42.34,
+      "videoStart": 43.14,
+      "videoNextCueOrEnd": 46.34,
+      "text": "Porque tu cerebro completa esa zona con lo que tiene alrededor."
+    },
+    {
+      "sourceStart": 42.34,
+      "sourceNextCueOrEnd": 44.1,
+      "videoStart": 46.34,
+      "videoNextCueOrEnd": 48.1,
+      "text": "En esta prueba, completa el fondo."
+    },
+    {
+      "sourceStart": 44.1,
+      "sourceNextCueOrEnd": 46.34,
+      "videoStart": 48.1,
+      "videoNextCueOrEnd": 50.34,
+      "text": "El punto desaparece y todo parece continuo."
+    },
+    {
+      "sourceStart": 46.34,
+      "sourceNextCueOrEnd": 48.74,
+      "videoStart": 50.34,
+      "videoNextCueOrEnd": 52.74,
+      "text": "Incluso con un solo ojo abierto."
+    },
+    {
+      "sourceStart": 48.74,
+      "sourceNextCueOrEnd": 50.93,
+      "videoStart": 52.74,
+      "videoNextCueOrEnd": 54.93,
+      "text": "Y cuando abres los dos, hay otra ayuda."
+    },
+    {
+      "sourceStart": 50.93,
+      "sourceNextCueOrEnd": 54.18,
+      "videoStart": 54.93,
+      "videoNextCueOrEnd": 58.18,
+      "text": "El otro ojo suele aportar la información que falta."
+    },
+    {
+      "sourceStart": 54.18,
+      "sourceNextCueOrEnd": 56.65,
+      "videoStart": 58.18,
+      "videoNextCueOrEnd": 60.65,
+      "text": "Así que no ves el mundo exactamente como es."
+    },
+    {
+      "sourceStart": 56.65,
+      "sourceNextCueOrEnd": 59.245688,
+      "videoStart": 60.65,
+      "videoNextCueOrEnd": 63.245688,
+      "text": "Ves la versión que tu cerebro construye para ti."
+    }
+  ]
+}

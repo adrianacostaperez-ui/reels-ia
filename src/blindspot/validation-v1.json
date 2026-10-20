@@ -1,0 +1,41 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1898,
+  "videoDuration": "63.266667",
+  "audioDuration": "63.245011",
+  "originalNarrationUnchanged": true,
+  "audioCorrelation": 0.9999543297335521,
+  "experimentalFramesChecked": 427,
+  "markerCenters": [
+    [
+      189.5,
+      1029.5
+    ],
+    [
+      869.5,
+      1029.5
+    ]
+  ],
+  "markerBoundsPx": [
+    [
+      46,
+      46
+    ],
+    [
+      30,
+      30
+    ]
+  ],
+  "markerPositionVariationPx": 0.0,
+  "pauseFramesChecked": 120,
+  "pauseMaxMeanPixelDifference": 0.0004063786008230453,
+  "sourceMP3Unchanged": true,
+  "binocularCoverageLuminanceRatio": 1.0265936171108585,
+  "fullDecodePassed": true,
+  "physicalExperiment": "User tested and approved the original test geometry; same geometry used without modification.",
+  "file": "deliverables/punto-ciego-v1.mp4",
+  "sha256": "0524f180958f5a4110a62a97e78d8f7fabcc5fc3aa7e2f42a62626fce4e3b061",
+  "audioPacketsPreservedAfterFinalAssembly": 2725
+}

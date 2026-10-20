@@ -99,3 +99,6 @@ export function BlindSpotTest() {
     {f>=p.pauseStartFrame && <div style={{position:'absolute',top:1370,left:96,right:96,textAlign:'center',fontFamily:'Arial,sans-serif',fontSize:30,fontWeight:400,letterSpacing:.1,color:'#a4adbc'}}>Puedes pausar para probar</div>}
   </AbsoluteFill>;
 }
+
+// Shared unchanged geometry and first captions for the approved full film.
+export {TestPlate, Caption};
